@@ -1,13 +1,16 @@
 nomis
 =====
 
-This game was written by Craig N. Caroon. The source was copied from:
+This game was written by Craig N. Caroon. The source was copied from the
+ original at:
 
 https://github.com/ccaroon/arduino/tree/master/arduboy/nomis
 
 It has been modified to use the [Arduboy2](https://github.com/MLXXXp/Arduboy2)
  and [ArduboyTones](https://github.com/MLXXXp/ArduboyTones) libraries.
 This allows the RGB LED to be dimmed down so it isn't so blinding.
+
+Contents of the original README.md follows:
 
 ## Description
 A simple memory game similar to Simon(tm).
